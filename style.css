@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+}
+.JBL{
+    font-size: 50px;
+    font-style: italic;
+    color: crimson;
+    display: inline-block;
+    margin: 30px;
+
+}
+#Fleur {
+display:flex;    
+height: 300px;
+justify-content: center;
+align-items: center;
+}
+#welcome{
+    font-size: 100px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35%;
+    margin-top: 17%;
+}
+.contact{ 
+    height: 80px;
+    font-size: 60px;
+}
+.IP{
+    font-size: 30px;
+}
